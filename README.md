@@ -10,5 +10,9 @@ or
 
 ## How to use
 <ol>
-<li>Download </li>
+<li>Download <i>MSPColorPickerInstance.swc</i> and <i>asset_ColorPickerSwatch.fla</i></li>
+<li>Open Adobe Animate and create a new "Standard" file from "Character Animation"</li>
+<li>Add the SWC file to Adobe Animate by clicking "More settings" -> "ActionScript Settings" -> Library path -> Browse to SWC file -> OK</li>
+
 </ol>
+![image](https://user-images.githubusercontent.com/117317661/227786937-5211ed30-8208-43ae-8c3e-b5ff3ccd2262.jpg)
