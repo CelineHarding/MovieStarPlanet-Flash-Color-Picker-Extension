@@ -1,5 +1,5 @@
 # MovieStarPlanet-Flash-Color-Picker-Extension #
-SWC file to create Color Pickers easily for MovieStarPlanet clothes & items
+SWC file to create Color Pickers easily for MovieStarPlanet clothes & items. Only one line of code is necessary!
 
 ## What you need ##
 <ul>
